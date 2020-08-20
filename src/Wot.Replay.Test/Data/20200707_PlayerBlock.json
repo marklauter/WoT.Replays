@@ -1,0 +1,1164 @@
+{
+  "clientVersionFromXml": "World\u00a0of\u00a0Tanks v.1.9.1.1 #385",
+  "mapDisplayName": "Ensk",
+  "clientVersionFromExe": "1.9.1.0",
+  "gameplayID": "domination",
+  "playerID": 1013493328,
+  "serverName": "US Central",
+  "vehicles": {
+    "5934626": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "uk:GB83_FV4005",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "GT14",
+      "avatarSessionID": "5934626",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 10 ],
+        [ 31 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "GT14"
+    },
+    "5934627": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "ussr:R45_IS-7",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Toyboxx",
+      "avatarSessionID": "5934627",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 1 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Toyboxx"
+    },
+    "5934624": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "ussr:R148_Object_430_U",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "TatinhoMiller",
+      "avatarSessionID": "5934624",
+      "igrType": 0,
+      "clanAbbrev": "LUR",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 90 ],
+        [ 12 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "TatinhoMiller"
+    },
+    "5934625": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "usa:A38_T92",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Jabortnik",
+      "avatarSessionID": "5934625",
+      "igrType": 0,
+      "clanAbbrev": "EPEEN",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 27 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Jabortnik"
+    },
+    "5934622": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "uk:GB100_Manticore",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Grot123",
+      "avatarSessionID": "5934622",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 4 ],
+      "badges": [
+        [ 29 ],
+        [ 36 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Grot123"
+    },
+    "5934623": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "ussr:R145_Object_705_A",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "UtankiSpank",
+      "avatarSessionID": "5934623",
+      "igrType": 0,
+      "clanAbbrev": "-UD-",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 37 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "UtankiSpank"
+    },
+    "5934620": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "uk:GB31_Conqueror_Gun",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Allen06",
+      "avatarSessionID": "5934620",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 31, 0 ],
+      "badges": [
+        [],
+        [ 3 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Allen06"
+    },
+    "5934621": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "france:F18_Bat_Chatillon25t",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Aron_79",
+      "avatarSessionID": "5934621",
+      "igrType": 0,
+      "clanAbbrev": "CCCM",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 12 ],
+        [ 0 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Aron_79"
+    },
+    "5934608": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "germany:G73_E50_Ausf_M",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "il_principe_22",
+      "avatarSessionID": "5934608",
+      "igrType": 0,
+      "clanAbbrev": "-STAB",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 86 ],
+        [ 39 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "il_principe_22"
+    },
+    "5934609": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "uk:GB48_FV215b_183",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "_Z_3_X_QC",
+      "avatarSessionID": "5934609",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 86 ],
+        [ 2 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "_Z_3_X_QC"
+    },
+    "5934604": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "italy:It08_Progetto_M40_mod_65",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Gorill_Kocevski",
+      "avatarSessionID": "5934604",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 86 ],
+        [ 0 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Gorill_Kocevski"
+    },
+    "5934605": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "china:Ch41_WZ_111_5A",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "comandantechavez",
+      "avatarSessionID": "5934605",
+      "igrType": 0,
+      "clanAbbrev": "V-GTA",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 30 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "comandantechavez"
+    },
+    "5934606": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "ussr:R148_Object_430_U",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Newbie_marksman",
+      "avatarSessionID": "5934606",
+      "igrType": 0,
+      "clanAbbrev": "JUDG",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 64 ],
+        [ 27 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Newbie_marksman"
+    },
+    "5934607": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "france:F108_Panhard_EBR_105",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "tom50574",
+      "avatarSessionID": "5934607",
+      "igrType": 0,
+      "clanAbbrev": "BETAS",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 59, 57 ],
+        [ 0 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "tom50574"
+    },
+    "5934600": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "czech:Cz04_T50_51",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "MountainGoatNoName",
+      "avatarSessionID": "5934600",
+      "igrType": 0,
+      "clanAbbrev": "HACKD",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 1 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "MountainGoatNoName"
+    },
+    "5934601": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "usa:A120_M48A5",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "CvJoey12",
+      "avatarSessionID": "5934601",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 12 ],
+        [ 41 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "CvJoey12"
+    },
+    "5934602": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "france:F108_Panhard_EBR_105",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Anastana",
+      "avatarSessionID": "5934602",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 12 ],
+        [ 12 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Anastana"
+    },
+    "5934603": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "czech:Cz04_T50_51",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Ermakzn",
+      "avatarSessionID": "5934603",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 31, 0 ],
+      "badges": [
+        [ 34 ],
+        [ 28 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Ermakzn"
+    },
+    "5934598": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "uk:GB83_FV4005",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Cranky_Old_Guy",
+      "avatarSessionID": "5934598",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 4 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Cranky_Old_Guy"
+    },
+    "5934599": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "ussr:R87_T62A",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "79TITANIT_voin",
+      "avatarSessionID": "5934599",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 1 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "79TITANIT_voin"
+    },
+    "5934619": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "france:F64_AMX_50Fosh_B",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Deportallofthem",
+      "avatarSessionID": "5934619",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 86 ],
+        [ 18 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Deportallofthem"
+    },
+    "5934618": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "uk:GB91_Super_Conqueror",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "WIZARDOF777",
+      "avatarSessionID": "5934618",
+      "igrType": 0,
+      "clanAbbrev": "D-H-E",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 68 ],
+        [ 29 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "WIZARDOF777"
+    },
+    "5934617": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "usa:A38_T92",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "ScrubWizard",
+      "avatarSessionID": "5934617",
+      "igrType": 0,
+      "clanAbbrev": "CLASS",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 80 ],
+        [ 19 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "ScrubWizard"
+    },
+    "5934616": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "japan:J16_ST_B1",
+      "isAlive": 1,
+      "personalMissionIDs": [ 322 ],
+      "personalMissionInfo": { "322": [ 0, 0 ] },
+      "wtr": 0,
+      "fakeName": "7th_Cav_Trooper",
+      "avatarSessionID": "5934616",
+      "igrType": 0,
+      "clanAbbrev": "RENB2",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 11 ],
+        [ 7 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "7th_Cav_Trooper"
+    },
+    "5934615": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "usa:A67_T57_58",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "123Ibro",
+      "avatarSessionID": "5934615",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 40 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "123Ibro"
+    },
+    "5934614": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "czech:Cz04_T50_51",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "superson",
+      "avatarSessionID": "5934614",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 27, 1 ],
+      "badges": [
+        [ 86 ],
+        [ 3 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "superson"
+    },
+    "5934613": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "uk:GB100_Manticore",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "IMANOOBY",
+      "avatarSessionID": "5934613",
+      "igrType": 0,
+      "clanAbbrev": "FYYFF",
+      "ranked": [ 0, 2 ],
+      "badges": [
+        [],
+        [ 44 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "IMANOOBY"
+    },
+    "5934612": {
+      "forbidInBattleInvitations": false,
+      "vehicleType": "france:F38_Bat_Chatillon155_58",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "cwahl4",
+      "avatarSessionID": "5934612",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [],
+        [ 5 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "cwahl4"
+    },
+    "5934611": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "ussr:R149_Object_268_4",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "Rompaletdino_24",
+      "avatarSessionID": "5934611",
+      "igrType": 0,
+      "clanAbbrev": "",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 78 ],
+        [ 20 ]
+      ],
+      "team": 1,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "Rompaletdino_24"
+    },
+    "5934610": {
+      "forbidInBattleInvitations": true,
+      "vehicleType": "uk:GB92_FV217",
+      "isAlive": 1,
+      "personalMissionIDs": [],
+      "personalMissionInfo": {},
+      "wtr": 0,
+      "fakeName": "javier_189",
+      "avatarSessionID": "5934610",
+      "igrType": 0,
+      "clanAbbrev": "_M-M_",
+      "ranked": [ 0, 0 ],
+      "badges": [
+        [ 10 ],
+        [ 10 ]
+      ],
+      "team": 2,
+      "overriddenBadge": 0,
+      "events": {},
+      "isTeamKiller": 0,
+      "name": "javier_189"
+    }
+  },
+  "serverSettings": {
+    "isNoAllyDamage": [ 1, 9, 22, 23, 24, 27, 28 ],
+    "spgRedesignFeatures": {
+      "stunEnabled": true,
+      "markTargetAreaEnabled": true
+    },
+    "isPotapovQuestEnabled": false,
+    "roaming": [
+      3,
+      3,
+      [ [ 3, 1000000000, 1499999999, "NA" ] ],
+      []
+    ],
+    "ranked_config": {
+      "unburnableStepRanks": [],
+      "expireSeasons": 12,
+      "numPlayers": 15,
+      "unburnableRanks": [ 1, 5, 8, 11, 16, 21, 27, 31 ],
+      "mmFailTimes": [ 50, 60, 70, 80, 120, 150 ],
+      "expectedSeasons": 2,
+      "primeTimes": {
+        "1": {
+          "start": [ 22, 0 ],
+          "end": [ 24, 0 ],
+          "weekdays": [ 1, 2, 3, 4, 5 ],
+          "peripheryIDs": [ 303 ]
+        },
+        "3": {
+          "start": [ 22, 0 ],
+          "end": [ 24, 0 ],
+          "weekdays": [ 6, 7 ],
+          "peripheryIDs": [ 303 ]
+        },
+        "2": {
+          "start": [ 0, 0 ],
+          "end": [ 6, 0 ],
+          "weekdays": [ 1, 2, 3, 4, 5 ],
+          "peripheryIDs": [ 303 ]
+        },
+        "4": {
+          "start": [ 0, 0 ],
+          "end": [ 6, 0 ],
+          "weekdays": [ 6, 7 ],
+          "peripheryIDs": [ 303 ]
+        }
+      },
+      "rankGroups": [ 1, 5, 5, 10, 10, 1 ],
+      "isEnabled": true,
+      "bonusBattlesMultiplier": 2,
+      "maxLevel": 10,
+      "shields": { "19": [ 2, 2 ] },
+      "cycleTimes": [],
+      "arenaTime": 900,
+      "divisions": {
+        "1": {
+          "bonusBattles": [
+            {
+              "efficiency": 0.0,
+              "battlesCount": 2
+            },
+            {
+              "efficiency": 0.1,
+              "battlesCount": 3
+            },
+            {
+              "efficiency": 0.2,
+              "battlesCount": 4
+            },
+            {
+              "efficiency": 0.4,
+              "battlesCount": 5
+            },
+            {
+              "efficiency": 0.6,
+              "battlesCount": 6
+            },
+            {
+              "efficiency": 0.9,
+              "battlesCount": 7
+            },
+            {
+              "efficiency": 1.2,
+              "battlesCount": 8
+            },
+            {
+              "efficiency": 1.6,
+              "battlesCount": 9
+            },
+            {
+              "efficiency": 2.5,
+              "battlesCount": 10
+            }
+          ],
+          "isLeague": false,
+          "startRank": 1
+        },
+        "0": {
+          "bonusBattles": [
+            {
+              "efficiency": 0.0,
+              "battlesCount": 2
+            },
+            {
+              "efficiency": 0.1,
+              "battlesCount": 3
+            },
+            {
+              "efficiency": 0.2,
+              "battlesCount": 4
+            },
+            {
+              "efficiency": 0.4,
+              "battlesCount": 5
+            },
+            {
+              "efficiency": 0.6,
+              "battlesCount": 6
+            },
+            {
+              "efficiency": 0.9,
+              "battlesCount": 7
+            },
+            {
+              "efficiency": 1.2,
+              "battlesCount": 8
+            },
+            {
+              "efficiency": 1.6,
+              "battlesCount": 9
+            },
+            {
+              "efficiency": 2.5,
+              "battlesCount": 10
+            }
+          ],
+          "isLeague": false,
+          "startRank": 0
+        },
+        "3": {
+          "bonusBattles": [
+            {
+              "efficiency": 0.0,
+              "battlesCount": 5
+            },
+            {
+              "efficiency": 0.1,
+              "battlesCount": 8
+            },
+            {
+              "efficiency": 0.2,
+              "battlesCount": 10
+            },
+            {
+              "efficiency": 0.4,
+              "battlesCount": 13
+            },
+            {
+              "efficiency": 0.6,
+              "battlesCount": 15
+            },
+            {
+              "efficiency": 0.9,
+              "battlesCount": 18
+            },
+            {
+              "efficiency": 1.2,
+              "battlesCount": 20
+            },
+            {
+              "efficiency": 1.6,
+              "battlesCount": 23
+            },
+            {
+              "efficiency": 2.5,
+              "battlesCount": 25
+            }
+          ],
+          "isLeague": false,
+          "startRank": 21
+        },
+        "2": {
+          "bonusBattles": [
+            {
+              "efficiency": 0.0,
+              "battlesCount": 2
+            },
+            {
+              "efficiency": 0.1,
+              "battlesCount": 3
+            },
+            {
+              "efficiency": 0.2,
+              "battlesCount": 4
+            },
+            {
+              "efficiency": 0.4,
+              "battlesCount": 5
+            },
+            {
+              "efficiency": 0.6,
+              "battlesCount": 6
+            },
+            {
+              "efficiency": 0.9,
+              "battlesCount": 7
+            },
+            {
+              "efficiency": 1.2,
+              "battlesCount": 8
+            },
+            {
+              "efficiency": 1.6,
+              "battlesCount": 9
+            },
+            {
+              "efficiency": 2.5,
+              "battlesCount": 10
+            }
+          ],
+          "isLeague": false,
+          "startRank": 11
+        },
+        "4": {
+          "bonusBattles": {},
+          "isLeague": true,
+          "startRank": 31
+        }
+      },
+      "minXP": 0,
+      "minLevel": 10,
+      "winnerRankChanges": [ 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0 ],
+      "qualificationBonusBattles": [
+        {
+          "battlesCount": 1,
+          "steps": 3
+        },
+        {
+          "battlesCount": 2,
+          "steps": 6
+        },
+        {
+          "battlesCount": 3,
+          "steps": 11
+        },
+        {
+          "battlesCount": 4,
+          "steps": 21
+        },
+        {
+          "battlesCount": 5,
+          "steps": 31
+        }
+      ],
+      "seasons": {
+        "202003": {
+          "startSeason": 1584381600,
+          "endSeason": 1586178000,
+          "cycles": {
+            "20200316": {
+              "start": 1584381600,
+              "end": 1586178000
+            }
+          },
+          "number": 2
+        },
+        "201910": {
+          "startSeason": 1572285600,
+          "endSeason": 1574082000,
+          "cycles": {
+            "20191028": {
+              "start": 1572285600,
+              "end": 1574082000
+            }
+          },
+          "number": 1
+        }
+      },
+      "loserRankChanges": [ 1, 0, 0, 0, 0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1 ],
+      "cycleFinishSeconds": 1200,
+      "forbiddenClassTags": [],
+      "qualificationBattles": 20,
+      "peripheryIDs": [ 303 ],
+      "accRanks": 31,
+      "accSteps": [ 40, 1, 2, 2, 2, 3, 3, 3, 3, 3, 4, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5 ],
+      "leaguesBonusBattles": [
+        {
+          "battlesCount": 1,
+          "steps": 3
+        },
+        {
+          "battlesCount": 2,
+          "steps": 6
+        },
+        {
+          "battlesCount": 3,
+          "steps": 11
+        },
+        {
+          "battlesCount": 4,
+          "steps": 21
+        },
+        {
+          "battlesCount": 5,
+          "steps": 31
+        }
+      ],
+      "yearAwardsMarks": [ 3, 5, 9, 12 ],
+      "forbiddenVehTypes": []
+    }
+  },
+  "dateTime": "07.07.2020 19:46:04",
+  "mapName": "06_ensk",
+  "regionCode": "NA",
+  "battleType": 1,
+  "hasMods": true,
+  "playerVehicle": "japan-J16_ST_B1",
+  "xvm": {
+    "timing": [
+      {
+        "p": 1,
+        "m": "XMQP",
+        "t": 0.0,
+        "d": {
+          "data": {
+            "event": "xmqp_hola",
+            "capabilities": { "sixthSense": true }
+          },
+          "accountDBID": 1013493328
+        }
+      },
+      {
+        "p": 1,
+        "m": "XMQP",
+        "t": 0.0,
+        "d": {
+          "data": {
+            "event": "xmqp_hola",
+            "capabilities": { "sixthSense": true }
+          },
+          "accountDBID": 1000410530
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 52.035,
+        "d": {
+          "data": { "event": "xmqp_spotted" },
+          "accountDBID": 1000410530
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 52.035,
+        "d": {
+          "data": { "event": "xmqp_spotted" },
+          "accountDBID": 1000410530
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 62.035,
+        "d": {
+          "data": { "event": "xmqp_spotted" },
+          "accountDBID": 1013493328
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 71.84,
+        "d": {
+          "data": {
+            "code": "ALL",
+            "enable": false,
+            "event": "xmqp_vehicle_timer"
+          },
+          "accountDBID": 1000410530
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 71.84,
+        "d": {
+          "data": {
+            "enable": false,
+            "event": "xmqp_death_zone_timer",
+            "zoneID": "ALL"
+          },
+          "accountDBID": 1000410530
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 159.345,
+        "d": {
+          "data": { "event": "xmqp_spotted" },
+          "accountDBID": 1013493328
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 170.945,
+        "d": {
+          "data": { "event": "xmqp_spotted" },
+          "accountDBID": 1013493328
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 235.145,
+        "d": {
+          "data": { "event": "xmqp_spotted" },
+          "accountDBID": 1013493328
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 244.645,
+        "d": {
+          "data": {
+            "code": "ALL",
+            "enable": false,
+            "event": "xmqp_vehicle_timer"
+          },
+          "accountDBID": 1013493328
+        }
+      },
+      {
+        "p": 3,
+        "m": "XMQP",
+        "t": 244.645,
+        "d": {
+          "data": {
+            "enable": false,
+            "event": "xmqp_death_zone_timer",
+            "zoneID": "ALL"
+          },
+          "accountDBID": 1013493328
+        }
+      }
+    ],
+    "global": {
+      "minimap_circles": {
+        "base_gun_reload_time": 7.1,
+        "view_rammer": true,
+        "base_loaders_skill": 100.0,
+        "base_radio_distance": 750.0,
+        "view_commander_eagleEye": 100,
+        "view_radioman_finder": 57,
+        "base_radioman_skill": 100.0,
+        "view_stereoscope": false,
+        "view_ventilation": true,
+        "view_consumable": false,
+        "view_radioman_inventor": 0.0,
+        "view_camouflage": [
+          {
+            "skill": 0,
+            "name": "driver"
+          },
+          {
+            "skill": 0,
+            "name": "commander"
+          },
+          {
+            "skill": 0,
+            "name": "gunner"
+          },
+          {
+            "skill": 0,
+            "name": "loader"
+          }
+        ],
+        "view_brothers_in_arms": false,
+        "commander_sixthSense": true,
+        "view_coated_optics": false,
+        "is_full_crew": true,
+        "view_distance_vehicle": 400.0,
+        "artillery_range": 0,
+        "base_commander_skill": 100.0,
+        "vehCD": 3681,
+        "shell_range": 0
+      }
+    },
+    "ver": "1.0"
+  },
+  "playerName": "7th_Cav_Trooper"
+}
