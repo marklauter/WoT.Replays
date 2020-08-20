@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using System;
+using System.Globalization;
 
 namespace Wot.Replays.Converters
 {
@@ -33,7 +34,7 @@ namespace Wot.Replays.Converters
                 return;
             }
             var value = (long)untypedValue;
-            serializer.Serialize(writer, value.ToString());
+            serializer.Serialize(writer, value.ToString(CultureInfo.InvariantCulture));
             return;
         }
 
