@@ -4,7 +4,7 @@ namespace Wot.Replays.Models
 {
     public partial class Division
     {
-        [JsonProperty("bonusBattles")]
+       [JsonProperty("bonusBattles")]
         public BonusBattles BonusBattles { get; set; }
 
         [JsonProperty("isLeague")]

@@ -4,12 +4,12 @@ using System.Globalization;
 
 namespace Wot.Replays.Converters
 {
-    internal static class Converter
+    public static class ConverterSettings
     {
         public static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
         {
             MetadataPropertyHandling = MetadataPropertyHandling.Ignore,
-            DateParseHandling = DateParseHandling.None,
+            DateParseHandling = DateParseHandling.DateTime,
             Converters =
             {
                 BonusBattlesConverter.Singleton,
