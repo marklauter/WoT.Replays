@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WoT.Replays.Lib", "WoT.Repl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wot.Replays.Test", "Wot.Replay.Test\Wot.Replays.Test.csproj", "{6DB2DE7E-67B6-43BB-861A-7D7F54511431}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{0B999CAE-DC19-4EFB-A7FF-EF72C2C75929}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0B999CAE-DC19-4EFB-A7FF-EF72C2C75929}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
