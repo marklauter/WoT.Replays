@@ -1,36 +1,39 @@
 ﻿using System;
 using System.IO;
+using WoT.Replays;
 
 namespace Wot.Replays
 {
-    public class ReplayReader
+    public static class ReplayReader
     {
-        public ReplayReader(string fileName)
+        private const int MagicNumber = 288633362;
+
+        public static Replay Read(string fileName)
         {
             if (String.IsNullOrEmpty(fileName))
             {
                 throw new ArgumentNullException(nameof(fileName));
             }
 
-            this.Read(fileName);
-        }
-
-        public int BlockCount { get; private set; }
-
-        public byte[][] Blocks { get; private set; }
-
-        private void Read(string fileName)
-        {
             using var file = new FileStream(fileName, FileMode.Open, FileAccess.Read);
             using var reader = new BinaryReader(file);
-            _ = reader.ReadInt32(); // read past the magic number
-            this.BlockCount = reader.ReadInt32();
-            this.Blocks = new byte[this.BlockCount][];
-            for (var i = 0; i < this.BlockCount; ++i)
+            
+            var magicNumber = reader.ReadInt32();
+            if(MagicNumber != magicNumber)
+            {
+                throw new InvalidDataException($"file is not a wot replay. expected magic number: {MagicNumber}, actual: {magicNumber}");
+            }
+
+            var blockCount = reader.ReadInt32();
+            var blocks = new byte[blockCount][];
+            
+            for (var i = 0; i < blockCount; ++i)
             {
                 var blockSize = reader.ReadInt32();
-                this.Blocks[i] = reader.ReadBytes(blockSize);
+                blocks[i] = reader.ReadBytes(blockSize);
             }
+
+            return new Replay(blockCount, blocks);
         }
     }
 }
