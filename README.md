@@ -10,3 +10,6 @@ Parsing and analyzing replay files.
  - json string block of lengh l
  - repeat for n blocks
  - binary data - ignored for now
+
+## useful links
+ - https://app.quicktype.io/?l=csharp
