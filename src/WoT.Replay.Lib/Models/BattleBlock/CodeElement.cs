@@ -5,7 +5,14 @@
         public long? Integer;
         public string String;
 
-        public static implicit operator CodeElement(long Integer) => new CodeElement { Integer = Integer };
-        public static implicit operator CodeElement(string String) => new CodeElement { String = String };
+        public static implicit operator CodeElement(long Integer)
+        {
+            return new CodeElement { Integer = Integer };
+        }
+
+        public static implicit operator CodeElement(string String)
+        {
+            return new CodeElement { String = String };
+        }
     }
 }
